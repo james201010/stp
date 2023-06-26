@@ -1,2 +1,2 @@
 # stp
-Simple Traffic Proctor
+Simple Traffic Proxy
